@@ -1,6 +1,7 @@
 <!---
-I'm pretty sure what I spend whole working day making this.
-Worth it.
+Devnotes
+Йоу, увидели этот код?
+Молодцы!
 --->
 
 Ведущий разработчик в "ССК"
